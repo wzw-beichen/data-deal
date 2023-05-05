@@ -1,6 +1,6 @@
 {
   // 包含指定文件
-  "include": ["./src/*", "src/utils/type.ts", "src/utils/dataDeal.ts", "src/utils/commonUtils.ts", "src/utils/beforeSubmitDataDeal.tsx", "src/utils/afterRequestDataDeal.ts"],
+  "include": ["./src/*"],
   "compilerOptions": {
     "outDir": "./dist",
     // 重定向输出目录
